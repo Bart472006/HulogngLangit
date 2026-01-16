@@ -1,0 +1,15 @@
+/workspaces/HulogngLangit/ConsoleApp/bin/Debug/net10.0/ConsoleApp
+/workspaces/HulogngLangit/ConsoleApp/bin/Debug/net10.0/ConsoleApp.deps.json
+/workspaces/HulogngLangit/ConsoleApp/bin/Debug/net10.0/ConsoleApp.runtimeconfig.json
+/workspaces/HulogngLangit/ConsoleApp/bin/Debug/net10.0/ConsoleApp.dll
+/workspaces/HulogngLangit/ConsoleApp/bin/Debug/net10.0/ConsoleApp.pdb
+/workspaces/HulogngLangit/ConsoleApp/obj/Debug/net10.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/HulogngLangit/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfoInputs.cache
+/workspaces/HulogngLangit/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfo.cs
+/workspaces/HulogngLangit/ConsoleApp/obj/Debug/net10.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/HulogngLangit/ConsoleApp/obj/Debug/net10.0/ConsoleApp.sourcelink.json
+/workspaces/HulogngLangit/ConsoleApp/obj/Debug/net10.0/ConsoleApp.dll
+/workspaces/HulogngLangit/ConsoleApp/obj/Debug/net10.0/refint/ConsoleApp.dll
+/workspaces/HulogngLangit/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
+/workspaces/HulogngLangit/ConsoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
+/workspaces/HulogngLangit/ConsoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll
